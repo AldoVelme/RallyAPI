@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  INTERSYS.py
+#  
 #
-#  Copyright 2017 AVELAZCX <aldo.alfonsox.velasco.meza@intel.com>
+#  Copyright 2017 <aldo.alfonsox.velasco.meza@xxxx.com>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
